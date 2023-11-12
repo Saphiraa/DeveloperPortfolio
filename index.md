@@ -6,29 +6,44 @@ layout: default
 
 <img class="profile-picture" src="IMG_0034.PNG">
 
-Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthusiast.
+Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthusiast. I love reading fiction and writing book reviews. I also love coming up with creative journaling ideas. 
 
 
-## Research Interest
+## Research Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+1. Color Theory
+2. Interaction Design elements
+3. UI/UX Designing
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Projects
 
-## Typography
+1. Health care product research and management  
+2. Online IDE tool for programming beginners 
+3. Religious Education App
+4. Online portal for tutors and students based in Ontario, Canada
+5. Cricket Stats API
+5. Fast moving object Detection and Tracking using ML
+6. AI based Crop detection 
+7. eYRC: Supply Bot theme | 2019
+8. CodeAdventure FINTECH | 2019
+9. FridgeCam - A smart fridge cam hardware module using Raspberry Pi and Pi camera detecting the objects found in refrigerators
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Courses
 
-Here is a table
+1. Responsive Web Design
+2. Azure
+3. C programming
+4. PHP and MySQL 
+5. Arduino
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Achievements
+
+Year  | Award  | Category
+----- | ------ | --------
+2015  | Winner | Zonal Level Android App Development 
+2019  | Winner | Atharva Hackathon 2019
+2019  | 2nd Prize | Inter-College Technical Project Presentation 
 
 Here is a horizontal rule
 
@@ -40,5 +55,4 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+
