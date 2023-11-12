@@ -23,11 +23,11 @@ Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthus
 3. Religious Education App
 4. Online portal for tutors and students based in Ontario, Canada
 5. Cricket Stats API
-5. Fast moving object Detection and Tracking using ML
-6. AI based Crop detection 
-7. eYRC: Supply Bot theme | 2019
-8. CodeAdventure FINTECH | 2019
-9. FridgeCam - A smart fridge cam hardware module using Raspberry Pi and Pi camera detecting the objects found in refrigerators
+6. Fast moving object Detection and Tracking using ML
+7. AI based Crop detection 
+8. eYRC: Supply Bot theme 2019
+9. CodeAdventure FINTECH 2019
+10. FridgeCam - A smart fridge cam hardware module using Raspberry Pi and Pi camera detecting the objects found in refrigerators
 
 ## Courses
 
@@ -44,15 +44,5 @@ Year  | Award  | Category
 2015  | Winner | Zonal Level Android App Development 
 2019  | Winner | Atharva Hackathon 2019
 2019  | 2nd Prize | Inter-College Technical Project Presentation 
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
 
 
