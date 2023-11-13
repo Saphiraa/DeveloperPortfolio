@@ -5,22 +5,10 @@ is_contact: true
 
 * Email: [kazisaaraa@gmail.com](mailto:kazisaaraa@gmail.com)
 
-* Phone: [+91-8097694341](tel:+91-8097694341)
-
----
-
-## Mailing Address
-
-> 221B, Some Street
->
-> in some city
->
-> in India
-
 ---
 
 ## Social
 
-1. [Linkedin](#)
-2. [Instagram](#)
-3. [Github](#)
+1. [Linkedin](https://www.linkedin.com/in/saaraa-kazi-54752118b/)
+2. [Instagram](https://instagram.com/escapslockism?igshid=MWkwNnNsN29nODlheQ%3D%3D&utm_source=qr)
+3. [Github](https://github.com/Saphiraa)

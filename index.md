@@ -16,6 +16,15 @@ Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthus
 3. UI/UX Designing
 
 
+## Achievements
+
+Year  | Award  | Category
+----- | ------ | --------
+2015  | Winner | Zonal Level Android App Development 
+2019  | Winner | Atharva Hackathon 2019
+2019  | 2nd Prize | Inter-College Technical Project Presentation 
+
+
 ## Projects
 
 1. Health care product research and management  
@@ -27,7 +36,7 @@ Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthus
 7. AI based Crop detection 
 8. eYRC: Supply Bot theme 2019
 9. CodeAdventure FINTECH 2019
-10. FridgeCam - A smart fridge cam hardware module using Raspberry Pi and Pi camera detecting the objects found in refrigerators
+10.  FridgeCam - A smart fridge cam hardware module using Raspberry Pi and Pi camera detecting the objects found in refrigerators
 
 ## Courses
 
@@ -36,13 +45,5 @@ Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthus
 3. C programming
 4. PHP and MySQL 
 5. Arduino
-
-## Achievements
-
-Year  | Award  | Category
------ | ------ | --------
-2015  | Winner | Zonal Level Android App Development 
-2019  | Winner | Atharva Hackathon 2019
-2019  | 2nd Prize | Inter-College Technical Project Presentation 
 
 
