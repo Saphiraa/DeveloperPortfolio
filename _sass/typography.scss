@@ -55,10 +55,6 @@
     }
     img {
         text-align: center;
-        width: 100%;
+        width: $image-width;
     }
-}
-
-.logoSize {
-    width: $image-width !important;
 }
