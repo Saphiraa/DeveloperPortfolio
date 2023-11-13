@@ -59,8 +59,6 @@
     }
 }
 
-.logoSize {
-  img {
-    width: $image-width;
-  }      
+.logoSize img {
+    width: $image-width !important;
 }
