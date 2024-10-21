@@ -36,23 +36,23 @@ Year  | Award  | Category
 ## Projects
 
 1. Therapy for students (Healthcare Product)
-    - Tech Stack: Angular, C#, .net, MSSQL, Azure, GITLAB
-2. National Choir Mnaagement Portal
-    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB
+    - Tech Stack: Angular, C#, .net, MSSQL, Azure, GITLAB, SSMS
+2. National Choir Management Portal
+    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB, SSMS
 3. Spanish language learning Portal
-    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB
+    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB, SSMS
 4. Plant Selling Business App
-    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB
+    - Tech Stack: Angular, C#, .net, MSSQL, GITLAB, SSMS
 5. Research and management (Healthcare Product)
     - Tech Stack: Angular(Material Design), JIRA, UI/UX Design and implementation, Project Architecture, GITHUB
 6. Online IDE tool for programming beginners 
     - Tech Stack: Angular, React, Node.js, MongoDB, Bootstrap, AWS(EC2, S3, RDS, CloudFront), GITHUB
 7. Religious Education App
-    - Tech Stack: Angular(Ionic, Cordova), PHP(Yii2 framework), UI/UX Design and implementation, GITHUB
+    - Tech Stack: Angular(Ionic, Cordova), XCode, Android Studio, PHP(Yii2 framework), UI/UX Design and implementation, GITHUB
 8. Online portal for tutors and students based in Ontario, Canada
     - Tech Stack: Javascript, Ajax, PHP, HTML, CSS, MySQL, GITHUB
 9. Cricket Stats API
-    - Python(Flask), GIT
+    - Tech Stack: Python(Flask), GIT
 
 ## Academic projects
 
