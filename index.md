@@ -7,7 +7,9 @@ layout: default
 <img class="profile-picture" src="IMG_0034.PNG">
 
 Hi! I am a Computer Engineer, a FullStack Developer and a UI/UX Designing enthusiast.
-[comment]: <> I love reading fiction and writing book reviews. I also love coming up with creative journaling ideas.
+
+[comment]: <> I love reading fiction and writing book reviews
+[comment]: <> I also love coming up with creative journaling ideas
 
 
 [comment]: <> ## Research Interests
