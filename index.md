@@ -69,8 +69,7 @@ Year  | Award  | Category
 ## Courses
 
 1. Certified course; C Programming - Aptech.
-2. Certified course; Arduino - Spoken Tutorial, 
-IIT Bombay
+2. Certified course; Arduino - Spoken Tutorial, IIT Bombay
 3. Certified course; PHP and MySQL - Spoken Tutorial, IIT Bombay
 4. Certified course; Responsive Web Design
 
